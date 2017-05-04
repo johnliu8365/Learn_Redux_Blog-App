@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# Blog App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Use React/Redux to build a Blog App
+
+Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)
+
+![alt text](https://github.com/johnliu8365/Learn_Redux_Blog-App/blob/master/screenshot.gif)
+
+1. React
+2. Redux
+3. Redux Blog Post API (http://reduxblog.herokuapp.com/)
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/johnliu8365/Learn_Redux_Blog-App.git
+> cd Learn_Redux_Blog-App
 > npm install
 > npm start
 ```
